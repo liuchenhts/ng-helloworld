@@ -28,6 +28,7 @@ import { ShippingComponent } from './shipping/shipping.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     HttpClientModule,
+    ReactiveFormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
